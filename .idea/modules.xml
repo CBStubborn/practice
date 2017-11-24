@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-basic.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-basic.iml" group="personal-basic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic_main.iml" group="personal-basic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic_test.iml" group="personal-basic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-hadoop.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-hadoop.iml" group="personal-hadoop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop_main.iml" group="personal-hadoop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop_test.iml" group="personal-hadoop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" group="personal-hbase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase_main.iml" group="personal-hbase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase_test.iml" group="personal-hbase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" group="personal-job" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-job/personal-job_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job_main.iml" group="personal-job" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-job/personal-job_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job_test.iml" group="personal-job" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" group="personal-kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka_main.iml" group="personal-kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka_test.iml" group="personal-kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-nio.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-nio.iml" group="personal-nio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-nio/personal-nio_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-nio/personal-nio_main.iml" group="personal-nio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-nio/personal-nio_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-nio/personal-nio_test.iml" group="personal-nio" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" group="personal-rpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc_main.iml" group="personal-rpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc_test.iml" group="personal-rpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-spring.iml" group="personal-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring_main.iml" group="personal-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring_test.iml" group="personal-spring" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/practice_main.iml" group="practice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/practice_test.iml" group="practice" />
+    </modules>
+  </component>
+</project>

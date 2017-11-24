@@ -1,0 +1,2650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d653aced-7bce-4295-9c77-faf2034812eb" name="Default" comment="" />
+    <ignored path="practice.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/spring/target/" />
+    <ignored path="$PROJECT_DIR$/spring/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring/build/" />
+    <ignored path="$PROJECT_DIR$/hbase/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hbase/build/" />
+    <ignored path="$PROJECT_DIR$/personal-spring/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-spring/build/" />
+    <ignored path="$PROJECT_DIR$/personal-spring/out/" />
+    <ignored path="$PROJECT_DIR$/personal-job/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-job/build/" />
+    <ignored path="$PROJECT_DIR$/personal-job/out/" />
+    <ignored path="$PROJECT_DIR$/personal-hbase/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-hbase/build/" />
+    <ignored path="$PROJECT_DIR$/personal-hbase/out/" />
+    <ignored path="$PROJECT_DIR$/personal-nio/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-nio/build/" />
+    <ignored path="$PROJECT_DIR$/personal-nio/out/" />
+    <ignored path="$PROJECT_DIR$/personal-rpc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-rpc/build/" />
+    <ignored path="$PROJECT_DIR$/personal-rpc/out/" />
+    <ignored path="$PROJECT_DIR$/spring/out/" />
+    <ignored path="$PROJECT_DIR$/hbase/out/" />
+    <ignored path="$PROJECT_DIR$/personal-hadoop/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-hadoop/build/" />
+    <ignored path="$PROJECT_DIR$/personal-hadoop/out/" />
+    <ignored path="$PROJECT_DIR$/personal-kafka/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-kafka/build/" />
+    <ignored path="$PROJECT_DIR$/personal-kafka/out/" />
+    <ignored path="$PROJECT_DIR$/personal-test/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-test/build/" />
+    <ignored path="$PROJECT_DIR$/personal-test/out/" />
+    <ignored path="$PROJECT_DIR$/personal-basic/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-basic/build/" />
+    <ignored path="$PROJECT_DIR$/personal-basic/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="practice" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="practice" type="f1a62948:ProjectNode" />
+                <item name=":personal-kafka" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="practice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>adjacent</find>
+      <find>Segment</find>
+      <find>initTable</find>
+      <find>resiz</find>
+      <find>Entry</find>
+      <find>Segmen</find>
+      <find>setValue</find>
+      <find>Node</find>
+      <find>TreeBin</find>
+      <find>ForwardingNode</find>
+      <find>future</find>
+      <find>newFixed</find>
+      <find>handler</find>
+      <find>submit</find>
+      <find>public void execute(Runnable command)</find>
+      <find>executor</find>
+      <find>equals</find>
+      <find>capacity</find>
+      <find>terminated</find>
+      <find>execute</find>
+      <find>Worker</find>
+      <find>interrupted</find>
+      <find>holdsLock</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Stubborn\.gradle\wrapper\dists\gradle-2.5-bin\7mk8vyobxfh3eazpg3pi2y9mv\gradle-2.5" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2.5" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="practice" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-basic" />
+                <option name="path" value="$PROJECT_DIR$/personal-basic" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="practice" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-hadoop" />
+                <option name="path" value="$PROJECT_DIR$/personal-hadoop" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-job" />
+                <option name="path" value="$PROJECT_DIR$/personal-job" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-nio" />
+                <option name="path" value="$PROJECT_DIR$/personal-nio" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-spring" />
+                <option name="path" value="$PROJECT_DIR$/personal-spring" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-kafka" />
+                <option name="path" value="$PROJECT_DIR$/personal-kafka" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-hbase" />
+                <option name="path" value="$PROJECT_DIR$/personal-hbase" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-rpc" />
+                <option name="path" value="$PROJECT_DIR$/personal-rpc" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'practice'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'practice'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'practice' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-basic">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-basic'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-basic'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-basic'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-basic'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-basic'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-basic'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-basic'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-hadoop">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-hadoop'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-hadoop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-hadoop'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-hadoop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-hadoop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-hadoop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-hadoop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-hbase">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-hbase'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-hbase'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-hbase'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-hbase'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-hbase'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-hbase'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-hbase'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-job">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-job'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-job'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-kafka">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-kafka'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-kafka'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-kafka'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-kafka'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-kafka'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-kafka'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-kafka'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-nio">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-nio'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-nio'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-nio'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-nio'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-nio'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-nio'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-nio'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-rpc">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-rpc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-rpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-rpc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-rpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-rpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-rpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-rpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/personal-spring">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':personal-spring'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':personal-spring'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':personal-spring'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':personal-spring'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':personal-spring'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':personal-spring'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':personal-spring'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../GLPlatformMS" value="11783804420980" />
+        <entry key="$PROJECT_DIR$/../GLPlatformMS/glms-web" value="14774612541144" />
+        <entry key="$PROJECT_DIR$/../JNITS" value="59031315550211" />
+        <entry key="$PROJECT_DIR$/../JNITS/gl-camera-server" value="1467380323741" />
+        <entry key="$PROJECT_DIR$/../JNITS/gl-cas-manage" value="1467380325104" />
+        <entry key="$PROJECT_DIR$/../JNITS/gl-maintenance" value="62069890471838" />
+        <entry key="$PROJECT_DIR$/../JNITS/statistics-app" value="62069890471838" />
+        <entry key="$PROJECT_DIR$/../JNITS/statistics-web" value="1486083753239" />
+        <entry key="$PROJECT_DIR$/../JNITS_Web" value="8928542920581" />
+        <entry key="$PROJECT_DIR$/../kafka-0.8.2.2-src" value="5764976848000" />
+        <entry key="$PROJECT_DIR$/../kafkaConsumer" value="1474509982482" />
+        <entry key="$PROJECT_DIR$" value="15108126475712" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3420981682" />
+        <entry key="$PROJECT_DIR$/personal-basic/build.gradle" value="835510301" />
+        <entry key="$PROJECT_DIR$/personal-hadoop/build.gradle" value="835510301" />
+        <entry key="$PROJECT_DIR$/personal-hbase/build.gradle" value="835510301" />
+        <entry key="$PROJECT_DIR$/personal-job/build.gradle" value="835510301" />
+        <entry key="$PROJECT_DIR$/personal-kafka/build.gradle" value="4083583774" />
+        <entry key="$PROJECT_DIR$/personal-nio/build.gradle" value="835510301" />
+        <entry key="$PROJECT_DIR$/personal-rpc/build.gradle" value="835510301" />
+        <entry key="$PROJECT_DIR$/personal-spring/build.gradle" value="835510301" />
+        <entry key="$PROJECT_DIR$/personal-test/build.gradle" value="1059483643" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1751624664" />
+        <entry key="$PROJECT_DIR$/../preJNITS/JNITS" value="1467437342652" />
+        <entry key="$PROJECT_DIR$/../preJNITS/JNITS/statistics-web" value="1467383079331" />
+        <entry key="$PROJECT_DIR$/../taurus" value="5890230955441" />
+        <entry key="$PROJECT_DIR$/../topk-monitoring" value="2979743420000" />
+        <entry key="E:/gl-camera-server" value="1476063347000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/hbase">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/hbase" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-basic">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-basic" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-hadoop">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-hadoop" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-hbase">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-hbase" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-job">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-job" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-kafka">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-kafka" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-nio">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-nio" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-rpc">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-rpc" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-spring">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-spring" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/personal-test">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/personal-test" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/spring">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/spring" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="practice" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-base-services-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-base-services-groovy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-cli-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-core-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-docs-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-launcher-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-messaging-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-model-core-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-model-groovy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-open-api-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-resources-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-tooling-api-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-ui-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-wrapper-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/groovy-all-2.3.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-announce-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-antlr-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-build-comparison-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-build-init-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-code-quality-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-dependency-management-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-diagnostics-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ear-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ide-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ide-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ivy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-jacoco-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-javascript-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-jetty-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-groovy-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-java-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-jvm-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-scala-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-maven-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-osgi-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-base-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-jvm-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-play-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-plugin-development-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-plugin-use-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-plugins-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-publish-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-reporting-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-resources-http-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-resources-s3-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-resources-sftp-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-scala-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-signing-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-sonar-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-testing-native-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-tooling-api-builders-2.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/personal/practices/job/zaxiang/NiXuDui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/personal/practices/job/zaxiang/StringPermutations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/personal/practices/job/zaxiang/StaticStudy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/personal/practices/graph/BasicGraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/personal/practices/job/huawei/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/personal/practices/job/huawei/Compress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/personal/practices/Main.java" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/sohu/InsertToHuiWen.java" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/FindRepeatNumber.java" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/BitSetSort.java" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/alibaba/writing/OptimalPlan.java" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/Main.java" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/SynStaticDemo.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Interfaze2.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Interfaze1.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Interfaze3.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Main.java" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/TurnBiTree.java" />
+        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Ha.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/socket/Serever.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/build.gradle" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/KafkaListenImplement.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/SmsMessageHandler.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerProperty.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/MessageContainer.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/PropertyFactory.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerHandler.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerMessageBO.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerWorker.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/jdk18/Lambda.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/jdk8/Main.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultFactory.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/Default.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultOverImpl.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultImpl.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultMain.java" />
+        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/Lambda.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/ExchangerPractice.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/CountDownLatchPractice.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/CyclicBarrierPractice.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/SemaphorePractice.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/Main.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CountDownLatchPractice.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CyclicBarrierPractice.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/ExchangerPractice.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/SemaphorePractice.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.26659167" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="SearchEverywhereHistoryKey" value="Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;Thread&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Thread.java&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;AtoMic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/atomic/AtomicInteger.java&#10;ThreadPoolExe&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;CountDo&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;CyclicBarrier &#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;ArrayBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;LinkedBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;BlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.BlockingQueue&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;AbstractQueuedSynchronizer&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;ReadWriteLock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/ReadWriteLock.java&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/Lock.java&#10;DirectByteBuffer&#9;PSI&#9;JAVA://java.nio.DirectByteBuffer&#10;Object&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Object.java&#10;StringBufferInpu&#9;PSI&#9;JAVA://java.io.StringBufferInputStream&#10;ByteArrayIn&#9;PSI&#9;JAVA://java.io.ByteArrayInputStream&#10;Writer&#9;PSI&#9;JAVA://java.io.Writer&#10;InputStream&#9;PSI&#9;JAVA://java.io.InputStream&#10;Seriali&#9;PSI&#9;JAVA://java.io.Serializable&#10;Integer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/Integer.class&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/String.java&#10;Functi&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/function/Function.java&#10;Func&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/function/Function.java&#10;Functional&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Collection&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/Collection.java&#10;Connection&#9;PSI&#9;JAVA://java.sql.Connection&#10;Optional&#9;PSI&#9;JAVA://java.util.Optional&#10;Supplier&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;Consumer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/function/Consumer.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Set&#9;PSI&#9;JAVA://personal.practices.nio.Server.ServerSendMessageThread&#10;ThreadLo&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/ThreadLocal.java&#10;Executor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Executor.java&#10;Executors&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java&#10;Executorse&#9;PSI&#9;JAVA://org.apache.hadoop.hbase.executor.ExecutorService&#10;ExecutorSe&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java&#10;ScheduledThreadPoolExecutor&#9;PSI&#9;JAVA://java.util.concurrent.ScheduledThreadPoolExecutor&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/Stack.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;BaoS&#9;FILE&#9;file://D:/git/practice/src/main/java/personal.practices/job/huawei/BaoShu.java&#10;Map&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/Map.java&#10;Prime&#9;PSI&#9;JAVA://personal.practices.job.xiecheng.ZhiShuHe#isPrime&#10;Ugly&#9;FILE&#9;file://D:/git/practice/src/main/java/personal.practices/job/didi/UglyNumber.java&#10;Concurrentmodi&#9;PSI&#9;JAVA://java.util.ConcurrentModificationException" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7.12 (C:\Program Files\Python27\python.exe)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="personal.practices" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CountDownLatchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.concurrent.CountDownLatchPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="personal-basic_main" />
+      <envs />
+    </configuration>
+    <configuration name="ExchangerPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.concurrent.ExchangerPractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="personal-basic_main" />
+      <envs />
+    </configuration>
+    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="personal.practices.test.jdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="personal.practices.test.jdk8.Lambda" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="personal-test_main" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="personal-basic_main" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="personal.practices.job.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="personal.practices.job.huawei.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="practice_main" />
+      <envs />
+    </configuration>
+    <configuration name="SemaphorePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.concurrent.SemaphorePractice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="personal-basic_main" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="practice" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practice" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Lambda" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CountDownLatchPractice" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SemaphorePractice" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ExchangerPractice" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ExchangerPractice" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SemaphorePractice" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CountDownLatchPractice" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Lambda" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1511404955606" />
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d653aced-7bce-4295-9c77-faf2034812eb" name="Default" comment="" />
+      <created>1502977813911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502977813911</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.625" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10030864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69409937" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2927383" sideWeight="0.49462366" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14977308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39506173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.102874435" sideWeight="0.50537634" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37594554" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5787037" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/ByteArrayInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/StringBufferInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/DirectByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="92" column="13" lean-forward="true" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/util/concurrent/locks/Lock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/misc/Lock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="166" column="19" lean-forward="true" selection-start-line="166" selection-start-column="19" selection-end-line="166" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar!/org/jboss/netty/util/internal/NonReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/StampedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="897" column="16" lean-forward="false" selection-start-line="897" selection-start-column="16" selection-end-line="897" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="704" column="0" lean-forward="true" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="130" column="7" lean-forward="true" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="761" column="0" lean-forward="false" selection-start-line="761" selection-start-column="0" selection-end-line="761" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/org/hamcrest/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="225" column="20" lean-forward="true" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="295" column="45" lean-forward="false" selection-start-line="295" selection-start-column="45" selection-end-line="295" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="218" column="36" lean-forward="false" selection-start-line="218" selection-start-column="36" selection-end-line="218" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="280" column="36" lean-forward="false" selection-start-line="280" selection-start-column="36" selection-end-line="280" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="288" column="22" lean-forward="false" selection-start-line="288" selection-start-column="22" selection-end-line="288" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761">
+          <caret line="164" column="28" lean-forward="false" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultOverImpl.java" />
+    <entry file="file://$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultMain.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="606" column="16" lean-forward="false" selection-start-line="606" selection-start-column="16" selection-end-line="606" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Exchanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="590" column="12" lean-forward="true" selection-start-line="590" selection-start-column="12" selection-end-line="590" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1322" column="36" lean-forward="false" selection-start-line="1322" selection-start-column="36" selection-end-line="1322" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="389" column="64" lean-forward="false" selection-start-line="389" selection-start-column="64" selection-end-line="389" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="118" column="22" lean-forward="false" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2031">
+          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="236" column="7" lean-forward="true" selection-start-line="236" selection-start-column="7" selection-end-line="236" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="1482" column="59" lean-forward="true" selection-start-line="1482" selection-start-column="59" selection-end-line="1482" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CountDownLatchPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CyclicBarrierPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/ExchangerPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/SemaphorePractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/Client.java" />
+    <entry file="file://$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/channel/FileChannelExample.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/channels/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="219" column="13" lean-forward="false" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/math/BitSieve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/ContentHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="70" column="22" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3131">
+          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/aiqiyi/MaxLuckyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7.12 (C:\Program Files\Python27\python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_77</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>personal-spring_main|personal-spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26659167" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.hbase:hbase-hadoop-compat:1.2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-hadoop-compat/1.2.4/ff7e105deb52f9ed60cc01421e5165cd745636ef/hbase-hadoop-compat-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-hadoop-compat/1.2.4/aeddd24d5a807271a4e2b9bf74fba79c498dc70a/hbase-hadoop-compat-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
