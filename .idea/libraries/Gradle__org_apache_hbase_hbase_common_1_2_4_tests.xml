@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.apache.hbase:hbase-common:tests:1.2.4">
+  <library name="Gradle: org.apache.hbase:hbase-common:1.2.4:tests">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.hbase/hbase-common/1.2.4/17b1151d74b038e176b76a45fa0e2bc8429a1941/hbase-common-1.2.4-tests.jar!/" />
     </CLASSES>
