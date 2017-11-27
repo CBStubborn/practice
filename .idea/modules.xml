@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-nio/personal-nio.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-nio/personal-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
