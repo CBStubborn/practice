@@ -1,57 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="d653aced-7bce-4295-9c77-faf2034812eb" name="Default" comment="">
+=======
+    <list default="true" id="b8336ba9-1b4e-465b-8561-9cb16a139786" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/cache.properties.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileHashes.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/fileSnapshots.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/outputFileStates.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gradle/2.5/taskArtifacts/taskArtifacts.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/KafkaListenImplement.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring.iml" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal-hadoop/build.gradle" afterPath="$PROJECT_DIR$/personal-hadoop/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal-hbase/build.gradle" afterPath="$PROJECT_DIR$/personal-hbase/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal-kafka/build.gradle" afterPath="$PROJECT_DIR$/personal-kafka/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerHandler.java" afterPath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/ConsumerHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerProperty.java" afterPath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/ConsumerProperty.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerWorker.java" afterPath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/ConsumerWorker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/MessageContainer.java" afterPath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/MessageContainer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/SmsMessageHandler.java" afterPath="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/SmsMessageHandler.java" />
     </list>
-    <ignored path="practice.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/spring/target/" />
-    <ignored path="$PROJECT_DIR$/spring/.gradle/" />
-    <ignored path="$PROJECT_DIR$/spring/build/" />
-    <ignored path="$PROJECT_DIR$/hbase/.gradle/" />
-    <ignored path="$PROJECT_DIR$/hbase/build/" />
-    <ignored path="$PROJECT_DIR$/personal-spring/.gradle/" />
-    <ignored path="$PROJECT_DIR$/personal-spring/build/" />
-    <ignored path="$PROJECT_DIR$/personal-spring/out/" />
+    <ignored path="$PROJECT_DIR$/personal-basic/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-basic/build/" />
+    <ignored path="$PROJECT_DIR$/personal-basic/out/" />
     <ignored path="$PROJECT_DIR$/personal-job/.gradle/" />
     <ignored path="$PROJECT_DIR$/personal-job/build/" />
     <ignored path="$PROJECT_DIR$/personal-job/out/" />
     <ignored path="$PROJECT_DIR$/personal-hbase/.gradle/" />
     <ignored path="$PROJECT_DIR$/personal-hbase/build/" />
     <ignored path="$PROJECT_DIR$/personal-hbase/out/" />
-    <ignored path="$PROJECT_DIR$/personal-nio/.gradle/" />
-    <ignored path="$PROJECT_DIR$/personal-nio/build/" />
-    <ignored path="$PROJECT_DIR$/personal-nio/out/" />
-    <ignored path="$PROJECT_DIR$/personal-rpc/.gradle/" />
-    <ignored path="$PROJECT_DIR$/personal-rpc/build/" />
-    <ignored path="$PROJECT_DIR$/personal-rpc/out/" />
-    <ignored path="$PROJECT_DIR$/spring/out/" />
-    <ignored path="$PROJECT_DIR$/hbase/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/personal-hadoop/.gradle/" />
     <ignored path="$PROJECT_DIR$/personal-hadoop/build/" />
     <ignored path="$PROJECT_DIR$/personal-hadoop/out/" />
+    <ignored path="$PROJECT_DIR$/personal-rpc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-rpc/build/" />
+    <ignored path="$PROJECT_DIR$/personal-rpc/out/" />
+    <ignored path="$PROJECT_DIR$/personal-nio/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-nio/build/" />
+    <ignored path="$PROJECT_DIR$/personal-nio/out/" />
+    <ignored path="$PROJECT_DIR$/personal-spring/.gradle/" />
+    <ignored path="$PROJECT_DIR$/personal-spring/build/" />
+    <ignored path="$PROJECT_DIR$/personal-spring/out/" />
     <ignored path="$PROJECT_DIR$/personal-kafka/.gradle/" />
     <ignored path="$PROJECT_DIR$/personal-kafka/build/" />
     <ignored path="$PROJECT_DIR$/personal-kafka/out/" />
-    <ignored path="$PROJECT_DIR$/personal-test/.gradle/" />
-    <ignored path="$PROJECT_DIR$/personal-test/build/" />
-    <ignored path="$PROJECT_DIR$/personal-test/out/" />
-    <ignored path="$PROJECT_DIR$/personal-basic/.gradle/" />
-    <ignored path="$PROJECT_DIR$/personal-basic/build/" />
-    <ignored path="$PROJECT_DIR$/personal-basic/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -61,7 +80,7 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$">
+        <task path="$PROJECT_DIR$/personal-hbase">
           <activation />
         </task>
         <projects_view>
@@ -76,6 +95,12 @@
                 <item name="practice" type="f1a62948:ProjectNode" />
                 <item name=":personal-kafka" type="2d1252cf:ModuleNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="practice" type="f1a62948:ProjectNode" />
+                <item name=":personal-kafka" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -83,10 +108,8 @@
       </state>
     </system>
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="practice" />
-  </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personal-kafka/build.gradle">
@@ -99,6 +122,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,30 +135,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>adjacent</find>
-      <find>Segment</find>
-      <find>initTable</find>
-      <find>resiz</find>
-      <find>Entry</find>
-      <find>Segmen</find>
-      <find>setValue</find>
-      <find>Node</find>
-      <find>TreeBin</find>
-      <find>ForwardingNode</find>
-      <find>future</find>
-      <find>newFixed</find>
-      <find>handler</find>
-      <find>submit</find>
-      <find>public void execute(Runnable command)</find>
-      <find>executor</find>
-      <find>equals</find>
-      <find>capacity</find>
-      <find>terminated</find>
-      <find>execute</find>
-      <find>Worker</find>
-      <find>interrupted</find>
-      <find>holdsLock</find>
+      <find>test</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\git\practice\personal-spring</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -140,12 +147,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Stubborn\.gradle\wrapper\dists\gradle-2.5-bin\7mk8vyobxfh3eazpg3pi2y9mv\gradle-2.5" />
+        <entry key="$PROJECT_DIR$" value="C:\Program Files\gradle-4.3" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="2.5" />
+        <entry key="$PROJECT_DIR$" value="4.3" />
       </map>
     </option>
     <option name="availableProjects">
@@ -160,40 +167,36 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value=":personal-basic" />
-                <option name="path" value="$PROJECT_DIR$/personal-basic" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value="practice" />
                 <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-basic" />
+                <option name="path" value="$PROJECT_DIR$/personal-basic" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":personal-hadoop" />
                 <option name="path" value="$PROJECT_DIR$/personal-hadoop" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
+                <option name="name" value=":personal-hbase" />
+                <option name="path" value="$PROJECT_DIR$/personal-hbase" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
                 <option name="name" value=":personal-job" />
                 <option name="path" value="$PROJECT_DIR$/personal-job" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":personal-nio" />
-                <option name="path" value="$PROJECT_DIR$/personal-nio" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value=":personal-spring" />
-                <option name="path" value="$PROJECT_DIR$/personal-spring" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":personal-kafka" />
                 <option name="path" value="$PROJECT_DIR$/personal-kafka" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":personal-hbase" />
-                <option name="path" value="$PROJECT_DIR$/personal-hbase" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value=":personal-rpc" />
                 <option name="path" value="$PROJECT_DIR$/personal-rpc" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-spring" />
+                <option name="path" value="$PROJECT_DIR$/personal-spring" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -221,17 +224,27 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Displays the dependent components of components in root project 'practice'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'practice'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -251,7 +264,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -261,7 +274,7 @@
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="description" value="Initializes a new Gradle build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="init" />
               </ExternalTaskPojo>
@@ -271,7 +284,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -296,7 +309,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -306,7 +319,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -352,12 +365,22 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Displays the dependent components of components in project ':personal-basic'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-basic'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -377,7 +400,7 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -392,7 +415,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -417,7 +440,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -427,7 +450,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -473,12 +496,22 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Displays the dependent components of components in project ':personal-hadoop'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-hadoop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -498,7 +531,7 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -513,7 +546,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -538,7 +571,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -548,7 +581,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -594,12 +627,22 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Displays the dependent components of components in project ':personal-hbase'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-hbase'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -619,7 +662,7 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -634,7 +677,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -659,7 +702,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -669,7 +712,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -715,12 +758,22 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Displays the dependent components of components in project ':personal-job'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-job'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -740,7 +793,7 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -755,7 +808,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -780,7 +833,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -790,7 +843,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -836,12 +889,22 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Displays the dependent components of components in project ':personal-kafka'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-kafka'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -861,7 +924,7 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -876,7 +939,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -901,7 +964,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -911,7 +974,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -938,127 +1001,6 @@
             </list>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/personal-nio">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':personal-nio'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':personal-nio'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':personal-nio'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':personal-nio'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="compileJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':personal-nio'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="compileTestJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':personal-nio'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="processTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':personal-nio'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-nio" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/personal-rpc">
           <value>
             <list>
@@ -1078,12 +1020,22 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Displays the dependent components of components in project ':personal-rpc'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-rpc'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -1103,7 +1055,7 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -1118,7 +1070,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -1143,7 +1095,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -1153,7 +1105,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -1199,12 +1151,22 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'main'." />
+                <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles classes 'test'." />
+                <option name="description" value="Displays the dependent components of components in project ':personal-spring'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-spring'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
                 <option name="name" value="testClasses" />
               </ExternalTaskPojo>
@@ -1224,7 +1186,7 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
@@ -1239,7 +1201,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="description" value="Compiles main Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
@@ -1264,7 +1226,7 @@
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="description" value="Compiles test Java source." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
@@ -1274,7 +1236,7 @@
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="description" value="Processes test resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
                 <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
@@ -1305,34 +1267,12 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/../GLPlatformMS" value="11783804420980" />
-        <entry key="$PROJECT_DIR$/../GLPlatformMS/glms-web" value="14774612541144" />
-        <entry key="$PROJECT_DIR$/../JNITS" value="59031315550211" />
-        <entry key="$PROJECT_DIR$/../JNITS/gl-camera-server" value="1467380323741" />
-        <entry key="$PROJECT_DIR$/../JNITS/gl-cas-manage" value="1467380325104" />
-        <entry key="$PROJECT_DIR$/../JNITS/gl-maintenance" value="62069890471838" />
-        <entry key="$PROJECT_DIR$/../JNITS/statistics-app" value="62069890471838" />
-        <entry key="$PROJECT_DIR$/../JNITS/statistics-web" value="1486083753239" />
-        <entry key="$PROJECT_DIR$/../JNITS_Web" value="8928542920581" />
-        <entry key="$PROJECT_DIR$/../kafka-0.8.2.2-src" value="5764976848000" />
-        <entry key="$PROJECT_DIR$/../kafkaConsumer" value="1474509982482" />
-        <entry key="$PROJECT_DIR$" value="15108126475712" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="3420981682" />
-        <entry key="$PROJECT_DIR$/personal-basic/build.gradle" value="835510301" />
-        <entry key="$PROJECT_DIR$/personal-hadoop/build.gradle" value="835510301" />
-        <entry key="$PROJECT_DIR$/personal-hbase/build.gradle" value="835510301" />
-        <entry key="$PROJECT_DIR$/personal-job/build.gradle" value="835510301" />
-        <entry key="$PROJECT_DIR$/personal-kafka/build.gradle" value="4083583774" />
-        <entry key="$PROJECT_DIR$/personal-nio/build.gradle" value="835510301" />
-        <entry key="$PROJECT_DIR$/personal-rpc/build.gradle" value="835510301" />
-        <entry key="$PROJECT_DIR$/personal-spring/build.gradle" value="835510301" />
-        <entry key="$PROJECT_DIR$/personal-test/build.gradle" value="1059483643" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="1751624664" />
-        <entry key="$PROJECT_DIR$/../preJNITS/JNITS" value="1467437342652" />
-        <entry key="$PROJECT_DIR$/../preJNITS/JNITS/statistics-web" value="1467383079331" />
-        <entry key="$PROJECT_DIR$/../taurus" value="5890230955441" />
-        <entry key="$PROJECT_DIR$/../topk-monitoring" value="2979743420000" />
-        <entry key="E:/gl-camera-server" value="1476063347000" />
+        <entry key="$PROJECT_DIR$" value="15117404255618" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3202516968" />
+        <entry key="$PROJECT_DIR$/personal-hadoop/build.gradle" value="3340491612" />
+        <entry key="$PROJECT_DIR$/personal-hbase/build.gradle" value="2254413600" />
+        <entry key="$PROJECT_DIR$/personal-kafka/build.gradle" value="3671719882" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1499853359" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1346,13 +1286,6 @@
                     <value>
                       <ExternalModuleBuildClasspathPojo>
                         <option name="path" value="$PROJECT_DIR$" />
-                      </ExternalModuleBuildClasspathPojo>
-                    </value>
-                  </entry>
-                  <entry key="$PROJECT_DIR$/hbase">
-                    <value>
-                      <ExternalModuleBuildClasspathPojo>
-                        <option name="path" value="$PROJECT_DIR$/hbase" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -1412,82 +1345,85 @@
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
-                  <entry key="$PROJECT_DIR$/personal-test">
-                    <value>
-                      <ExternalModuleBuildClasspathPojo>
-                        <option name="path" value="$PROJECT_DIR$/personal-test" />
-                      </ExternalModuleBuildClasspathPojo>
-                    </value>
-                  </entry>
-                  <entry key="$PROJECT_DIR$/spring">
-                    <value>
-                      <ExternalModuleBuildClasspathPojo>
-                        <option name="path" value="$PROJECT_DIR$/spring" />
-                      </ExternalModuleBuildClasspathPojo>
-                    </value>
-                  </entry>
                 </map>
               </option>
-              <option name="name" value="practice" />
+              <option name="name" value="personal-basic" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/ant-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/ant-launcher-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-base-services-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-base-services-groovy-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-cli-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-core-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-docs-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-launcher-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-messaging-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-model-core-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-model-groovy-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-native-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-open-api-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-resources-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-tooling-api-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-ui-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/gradle-wrapper-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/groovy-all-2.3.10.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-announce-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-antlr-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-build-comparison-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-build-init-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-code-quality-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-dependency-management-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-diagnostics-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ear-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ide-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ide-native-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-ivy-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-jacoco-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-javascript-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-jetty-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-groovy-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-java-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-jvm-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-native-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-language-scala-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-maven-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-osgi-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-base-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-jvm-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-native-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-platform-play-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-plugin-development-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-plugin-use-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-plugins-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-publish-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-reporting-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-resources-http-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-resources-s3-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-resources-sftp-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-scala-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-signing-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-sonar-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-testing-native-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/gradle-tooling-api-builders-2.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.5-bin/7mk8vyobxfh3eazpg3pi2y9mv/gradle-2.5/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/ant-1.9.6.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/ant-launcher-1.9.6.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-base-services-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-base-services-groovy-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-build-cache-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-build-option-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-cli-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-core-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-core-api-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-docs-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-installation-beacon-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-jvm-services-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-kotlin-dsl-0.12.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-kotlin-dsl-tooling-builders-0.12.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-kotlin-dsl-tooling-models-0.12.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-launcher-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-logging-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-messaging-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-model-core-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-model-groovy-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-native-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-persistent-cache-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-process-services-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-resources-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-runtime-api-info-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-tooling-api-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/gradle-wrapper-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/groovy-all-2.4.12.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-announce-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-antlr-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-build-cache-http-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-build-comparison-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-build-init-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-code-quality-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-composite-builds-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-dependency-management-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-diagnostics-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ear-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ide-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ide-native-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ide-play-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ivy-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-jacoco-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-javascript-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-groovy-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-java-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-jvm-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-native-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-scala-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-maven-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-osgi-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-base-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-jvm-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-native-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-play-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-plugin-development-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-plugin-use-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-plugins-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-publish-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-reporting-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-gcs-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-http-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-s3-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-sftp-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-scala-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-signing-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-test-kit-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-testing-base-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-testing-jvm-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-testing-native-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-tooling-api-builders-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-version-control-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-workers-4.3.jar" />
+                  <option value="C:/Program Files/gradle-4.3/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -1504,65 +1440,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/personal/practices/graph/BasicGraph.java" />
-        <option value="$PROJECT_DIR$/src/main/java/personal/practices/job/huawei/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/personal/practices/job/huawei/Compress.java" />
-        <option value="$PROJECT_DIR$/src/main/java/personal/practices/Main.java" />
-        <option value="$PROJECT_DIR$/spring/pom.xml" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/sohu/InsertToHuiWen.java" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/FindRepeatNumber.java" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/BitSetSort.java" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/alibaba/writing/OptimalPlan.java" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/Main.java" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/SynStaticDemo.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Interfaze2.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Interfaze1.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Interfaze3.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Main.java" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/TurnBiTree.java" />
-        <option value="$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zaxiang/HttpUtil.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/thread/Ha.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/socket/Serever.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/build.gradle" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/KafkaListenImplement.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/SmsMessageHandler.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerProperty.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/MessageContainer.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/PropertyFactory.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerHandler.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerMessageBO.java" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerWorker.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/jdk18/Lambda.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/study/jdk8/Main.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultFactory.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/Default.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultOverImpl.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultImpl.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultMain.java" />
-        <option value="$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/Lambda.java" />
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/ExchangerPractice.java" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/CountDownLatchPractice.java" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/CyclicBarrierPractice.java" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/SemaphorePractice.java" />
+        <option value="$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/channel/UserServerSocketChannel.java" />
+        <option value="$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/channel/UserSocketChannel.java" />
+        <option value="$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/selector/UserSelector.java" />
         <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/Main.java" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CyclicBarrierPractice.java" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/ExchangerPractice.java" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/SemaphorePractice.java" />
-        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CountDownLatchPractice.java" />
-        <option value="$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/README.md" />
-        <option value="$PROJECT_DIR$/personal-nio/src/main/resources/README.md" />
-        <option value="$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/channel/UserFileChannel.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerWorker.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/PropertyFactory.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/producer/ProducerProperty.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/consumer/ConsumerProperty.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/test/java/personal/practices/basic/concurrent/ExchangerPracticeTest.groovy" />
+        <option value="$PROJECT_DIR$/personal-job/src/test/java/personal/practices/job/zywl/MainTest.groovy" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/Calculator.java" />
+        <option value="$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/JunitFlowTest.java" />
+        <option value="$PROJECT_DIR$/personal-hbase/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/personal-hadoop/build.gradle" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/PropertyFactory.java" />
+        <option value="$PROJECT_DIR$/conf/kafka/kafka-producer.properties" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/KafkaProducer.java" />
+        <option value="$PROJECT_DIR$/personal-kafka/build.gradle" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/MessageProducer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
     <option name="height" value="780" />
+=======
+    <option name="x" value="260" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -1584,7 +1519,10 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1595,31 +1533,89 @@
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+<<<<<<< HEAD
               <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+=======
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="jnproject" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15234375" />
-    <property name="project.structure.side.proportion" value="0.26659167" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="SearchEverywhereHistoryKey" value="SocketChannel&#9;PSI&#9;JAVA://java.nio.channels.SocketChannel&#10;Channel&#9;PSI&#9;JAVA://java.nio.channels.Channel&#10;Thread&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Thread.java&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Future&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;AtoMic&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/atomic/AtomicInteger.java&#10;ThreadPoolExe&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;CountDo&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;CyclicBarrier &#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;ArrayBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;LinkedBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedBlockingQueue&#10;BlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.BlockingQueue&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;AbstractQueuedSynchronizer&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;ReadWriteLock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/ReadWriteLock.java&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/Lock.java&#10;DirectByteBuffer&#9;PSI&#9;JAVA://java.nio.DirectByteBuffer&#10;Object&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Object.java&#10;StringBufferInpu&#9;PSI&#9;JAVA://java.io.StringBufferInputStream&#10;ByteArrayIn&#9;PSI&#9;JAVA://java.io.ByteArrayInputStream&#10;Writer&#9;PSI&#9;JAVA://java.io.Writer&#10;InputStream&#9;PSI&#9;JAVA://java.io.InputStream&#10;Seriali&#9;PSI&#9;JAVA://java.io.Serializable&#10;Integer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/Integer.class&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/String.java&#10;Functi&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/function/Function.java&#10;Func&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/function/Function.java&#10;Functional&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;Collection&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/Collection.java&#10;Connection&#9;PSI&#9;JAVA://java.sql.Connection&#10;Optional&#9;PSI&#9;JAVA://java.util.Optional&#10;Supplier&#9;PSI&#9;JAVA://java.util.function.Supplier&#10;Consumer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/function/Consumer.java&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;Set&#9;PSI&#9;JAVA://personal.practices.nio.Server.ServerSendMessageThread&#10;ThreadLo&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/ThreadLocal.java&#10;Executor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Executor.java&#10;Executors&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java&#10;Executorse&#9;PSI&#9;JAVA://org.apache.hadoop.hbase.executor.ExecutorService&#10;ExecutorSe&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ExecutorService.java&#10;ScheduledThreadPoolExecutor&#9;PSI&#9;JAVA://java.util.concurrent.ScheduledThreadPoolExecutor&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/Stack.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;BaoS&#9;FILE&#9;file://D:/git/practice/src/main/java/personal.practices/job/huawei/BaoShu.java&#10;Map&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/Map.java&#10;Prime&#9;PSI&#9;JAVA://personal.practices.job.xiecheng.ZhiShuHe#isPrime&#10;Ugly&#9;FILE&#9;file://D:/git/practice/src/main/java/personal.practices/job/didi/UglyNumber.java" />
-    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7.12 (C:\Program Files\Python27\python.exe)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JNITS/settings.gradle" />
+    <property name="SearchEverywhereHistoryKey" value="HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;String&#9;FILE&#9;jar://C:/Java/jdk1.8.0_77/src.zip!/java/lang/String.java" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="settings.editor.splitter.proportion" value="0.2600671" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="personal.practices" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="personal.practices.job.zywl" />
+      <recent name="personal.practices.basic.concurrent" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\git\practice\personal-nio\src\main\resources" />
-      <recent name="D:\git\practice\personal-nio\src\main\java\personal\practices\nio" />
-      <recent name="D:\git\practice\personal-nio\src\main\java\personal\practices\nio\channel" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1634,110 +1630,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UserFileChannel">
-    <configuration name="CountDownLatchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.concurrent.CountDownLatchPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="personal-basic_main" />
-      <envs />
-    </configuration>
-    <configuration name="ExchangerPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.concurrent.ExchangerPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="personal-basic_main" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="personal-basic_main" />
-      <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="personal.practices.job.huawei.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="personal.practices.job.huawei.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practice_main" />
-      <envs />
-    </configuration>
-    <configuration name="SemaphorePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="personal.practices.basic.concurrent.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="personal.practices.basic.concurrent.SemaphorePractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="personal-basic_main" />
-      <envs />
-    </configuration>
-    <configuration name="UserFileChannel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.UserSocketChannel">
+    <configuration name="UserServerSocketChannel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="personal.practices.nio.channel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="personal.practices.nio.channel.UserFileChannel" />
+      <option name="MAIN_CLASS_NAME" value="personal.practices.nio.channel.UserServerSocketChannel" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1746,11 +1647,29 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="personal-nio_main" />
+      <module name="personal-nio" />
+      <envs />
+    </configuration>
+    <configuration name="UserSocketChannel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="personal.practices.nio.channel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="personal.practices.nio.channel.UserSocketChannel" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="personal-nio" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -1790,40 +1709,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practice" />
-      <envs />
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -1859,320 +1749,19 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practice" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CountDownLatchPractice" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SemaphorePractice" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ExchangerPractice" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.UserFileChannel" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.UserServerSocketChannel" />
+      <item index="1" class="java.lang.String" itemvalue="Application.UserSocketChannel" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.UserFileChannel" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ExchangerPractice" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SemaphorePractice" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CountDownLatchPractice" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.UserSocketChannel" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UserServerSocketChannel" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1511404955606" />
+    <option name="lastUpdateTimestamp" value="1512115309891" />
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -2181,19 +1770,20 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Stubborn\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d653aced-7bce-4295-9c77-faf2034812eb" name="Default" comment="" />
-      <created>1502977813911</created>
+      <changelist id="b8336ba9-1b4e-465b-8561-9cb16a139786" name="Default" comment="" />
+      <created>1511491945326</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1502977813911</updated>
+      <updated>1511491945326</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -2211,14 +1801,34 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18381241" sideWeight="0.49462366" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14977308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31761006" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22012578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2457265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13568376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39506173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.102874435" sideWeight="0.50537634" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09455128" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2227,6 +1837,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.576507" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2261,344 +1878,460 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.102874435" sideWeight="0.50537634" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="20" />
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+        <item name="practice" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/org/hamcrest/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/Condition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="225" column="20" lean-forward="true" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="84" column="40" lean-forward="true" selection-start-line="84" selection-start-column="40" selection-end-line="84" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/BlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="295" column="45" lean-forward="false" selection-start-line="295" selection-start-column="45" selection-end-line="295" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="218" column="36" lean-forward="false" selection-start-line="218" selection-start-column="36" selection-end-line="218" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/CyclicBarrier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-302">
-          <caret line="280" column="36" lean-forward="false" selection-start-line="280" selection-start-column="36" selection-end-line="280" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="288" column="22" lean-forward="false" selection-start-line="288" selection-start-column="22" selection-end-line="288" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-761">
-          <caret line="164" column="28" lean-forward="false" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultOverImpl.java" />
-    <entry file="file://$PROJECT_DIR$/personal-test/src/main/java/personal/practices/test/jdk8/DefaultMain.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personal-basic/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Semaphore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="606" column="16" lean-forward="false" selection-start-line="606" selection-start-column="16" selection-end-line="606" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Exchanger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="590" column="12" lean-forward="true" selection-start-line="590" selection-start-column="12" selection-end-line="590" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="1322" column="36" lean-forward="false" selection-start-line="1322" selection-start-column="36" selection-end-line="1322" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="389" column="64" lean-forward="false" selection-start-line="389" selection-start-column="64" selection-end-line="389" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Class.java">
+=======
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/Main.java" />
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/KthPrimeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="118" column="22" lean-forward="false" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/MaxTriangle.java">
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="40" column="3" lean-forward="true" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
+        <state relative-caret-position="-1770">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/Future.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/MinDistanceToHome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2031">
-          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        <state relative-caret-position="180">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/RunnableFuture.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/baidu/MinOperationToSorted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        <state relative-caret-position="480">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/FutureTask.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/didi/UglyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="236" column="7" lean-forward="true" selection-start-line="236" selection-start-column="7" selection-end-line="236" selection-end-column="7" />
+        <state relative-caret-position="360">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Thread.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/didi/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="1482" column="59" lean-forward="true" selection-start-line="1482" selection-start-column="59" selection-end-line="1482" selection-end-column="59" />
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CyclicBarrierPractice.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/huawei/BaoShu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="-150">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/ExchangerPractice.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/huawei/Compress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="1170">
+          <caret line="39" column="32" lean-forward="false" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/SemaphorePractice.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/huawei/GetWinTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="-300">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/Client.java" />
-    <entry file="file://$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/channel/FileChannelExample.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/channels/Channel.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/huawei/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+<<<<<<< HEAD
+        <state relative-caret-position="-761">
+          <caret line="164" column="28" lean-forward="false" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="28" />
+=======
+        <state relative-caret-position="-120">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/math/BigDecimal.java">
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/huawei/MaxLengthNumberArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="219" column="13" lean-forward="false" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/math/BitSieve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/ContentHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="70" column="22" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3131">
-          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/aiqiyi/MaxLuckyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-423">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/CountDownLatchPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="-90">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/util/BasicTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2103">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/util/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-633">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+<<<<<<< HEAD
+        <state relative-caret-position="150">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+=======
+        <state relative-caret-position="480">
+          <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/util/RowKeyMaker.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/putter/PutterExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/model/LongType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/model/RecordModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/model/IntegerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/model/StaticType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-hbase/src/main/java/personal/practices/hbase/beans/Record.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="13" lean-forward="true" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="129">
+          <caret line="1482" column="59" lean-forward="true" selection-start-line="1482" selection-start-column="59" selection-end-line="1482" selection-end-column="59" />
+=======
+        <state relative-caret-position="233">
+          <caret line="870" column="7" lean-forward="true" selection-start-line="870" selection-start-column="7" selection-end-line="870" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#124311#0" expanded="false" />
+          </folding>
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka/1.0.5.RELEASE/732933714a8ab2898d4f5adc2166b58c572514e2/spring-kafka-1.0.5.RELEASE-sources.jar!/org/springframework/kafka/listener/AcknowledgingMessageListener.java" />
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="240">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+=======
+        <state relative-caret-position="420">
+          <caret line="1262" column="63" lean-forward="true" selection-start-line="1262" selection-start-column="63" selection-end-line="1262" selection-end-column="63" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/SmsMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/MessageContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="270">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+=======
+        <state relative-caret-position="210">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/KafkaListenImplement.java" />
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/ConsumerWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="60">
+          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+=======
+        <state relative-caret-position="240">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/ConsumerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/ConsumerProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="457" column="28" lean-forward="true" selection-start-line="457" selection-start-column="28" selection-end-line="457" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-3131">
+          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+=======
+        <state relative-caret-position="690">
+          <caret line="647" column="30" lean-forward="true" selection-start-line="647" selection-start-column="30" selection-end-line="647" selection-end-column="30" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/producer/ProducerProperty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="270">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+=======
+        <state relative-caret-position="240">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/test/java/personal/practices/basic/concurrent/ExchangerPracticeTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/SemaphorePractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="300">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+=======
+        <state relative-caret-position="390">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/concurrent/ExchangerPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-2103">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+=======
+        <state relative-caret-position="-90">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-job/src/main/java/personal/practices/job/zywl/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-633">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+=======
+        <state relative-caret-position="210">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-job/src/test/java/personal/practices/job/zywl/MainTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="267">
           <caret line="21" column="59" lean-forward="true" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+=======
+        <state relative-caret-position="600">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/jre/lib/rt.jar!/sun/nio/ch/FileChannelImpl.class">
+    <entry file="file://$PROJECT_DIR$/personal-basic/src/main/java/personal/practices/basic/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="180">
           <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+=======
+        <state relative-caret-position="-120">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/RandomAccessFile.java">
+    <entry file="file://$PROJECT_DIR$/personal-hbase/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="8550">
           <caret line="315" column="10" lean-forward="false" selection-start-line="315" selection-start-column="10" selection-end-line="315" selection-end-column="10" />
+=======
+        <state relative-caret-position="210">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/net/URLEncoder.java">
+    <entry file="file://$PROJECT_DIR$/personal-hadoop/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="134">
           <caret line="199" column="25" lean-forward="false" selection-start-line="199" selection-start-column="25" selection-end-line="199" selection-end-column="25" />
+=======
+        <state relative-caret-position="248">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal-nio/src/main/resources/README.md">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="180">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+=======
+        <state relative-caret-position="210">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/io/PrintStream.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-867">
           <caret line="444" column="19" lean-forward="false" selection-start-line="444" selection-start-column="19" selection-end-line="444" selection-end-column="19" />
+=======
+        <state relative-caret-position="630">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/Buffer.java">
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/PropertyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-27">
           <caret line="544" column="13" lean-forward="false" selection-start-line="544" selection-start-column="13" selection-end-line="544" selection-end-column="13" />
+=======
+        <state relative-caret-position="360">
+          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/ByteBuffer.java">
+    <entry file="file://$PROJECT_DIR$/personal-kafka/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-477">
           <caret line="1168" column="36" lean-forward="false" selection-start-line="1168" selection-start-column="36" selection-end-line="1168" selection-end-column="36" />
+=======
+        <state relative-caret-position="330">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/channels/FileChannel.java">
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/MessageProducer.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="123">
           <caret line="685" column="25" lean-forward="false" selection-start-line="685" selection-start-column="25" selection-end-line="685" selection-end-column="25" />
+=======
+        <state relative-caret-position="180">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/java/nio/channels/SocketChannel.java">
+    <entry file="file://$PROJECT_DIR$/conf/kafka/kafka-producer.properties">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="160">
           <caret line="525" column="0" lean-forward="false" selection-start-line="525" selection-start-column="0" selection-end-line="525" selection-end-column="0" />
         </state>
@@ -2619,12 +2352,31 @@
         </state>
       </provider>
     </entry>
+=======
+        <state relative-caret-position="90">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 37ac02429936ac7ba7cc22b78e1836a3219139f0
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2648,7 +2400,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 2.7.12 (C:\Program Files\Python27\python.exe) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2660,7 +2411,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8.0_77</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2672,20 +2423,20 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>personal-spring_main|personal-spring</last-edited>
+          <last-edited>personal-basic</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.26659167" />
+                <option value="0.2" />
                 <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectJDKs.UI">
+      <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2695,9 +2446,8 @@
           </splitter-proportions>
         </settings>
       </state>
-      <state key="ProjectLibrariesConfigurable.UI">
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
-          <last-edited>Gradle: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
