@@ -17,12 +17,6 @@ subprojects {
                 'org.slf4j:slf4j-api:1.7.13',
                 'ch.qos.logback:logback-classic:1.1.5',
                 'ch.qos.logback:logback-core:1.1.5',
-                'org.apache.hbase:hbase:1.2.4',
-                'org.apache.hbase:hbase-client:1.2.4',
-                'org.apache.hbase:hbase-common:1.2.4',
-                'org.apache.hbase:hbase-server:1.2.4',
-                'org.apache.hbase:hbase-protocol:1.2.4',
-
         )
     }
 

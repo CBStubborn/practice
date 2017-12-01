@@ -6,4 +6,3 @@ include 'personal-rpc'
 include 'personal-hadoop'
 include 'personal-kafka'
 include 'personal-basic'
-

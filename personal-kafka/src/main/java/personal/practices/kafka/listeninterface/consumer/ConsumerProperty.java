@@ -1,4 +1,4 @@
-package personal.practices.kafka.consumer;
+package personal.practices.kafka.listeninterface.consumer;
 
 import java.util.List;
 
@@ -87,5 +87,19 @@ public class ConsumerProperty {
 
     public void setMessageContainers(List<MessageContainer> messageContainers) {
         this.messageContainers = messageContainers;
+    }
+
+    @Override
+    public String toString() {
+        return "ConsumerProperty{" +
+                "brokerList='" + brokerList + '\'' +
+                ", groupId='" + groupId + '\'' +
+                ", enableAutoCommit='" + enableAutoCommit + '\'' +
+                ", autoCommitInterval='" + autoCommitInterval + '\'' +
+                ", sessionTimeout='" + sessionTimeout + '\'' +
+                ", keySerializer='" + keySerializer + '\'' +
+                ", valueSerializer='" + valueSerializer + '\'' +
+                ", messageContainers=" + messageContainers +
+                '}';
     }
 }

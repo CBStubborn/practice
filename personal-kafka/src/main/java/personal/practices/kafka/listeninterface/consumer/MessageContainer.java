@@ -1,4 +1,4 @@
-package personal.practices.kafka.consumer;
+package personal.practices.kafka.listeninterface.consumer;
 
 import org.springframework.kafka.listener.MessageListener;
 
