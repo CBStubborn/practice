@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="personal-basic_main" target="1.7" />
+      <module name="personal-basic_test" target="1.7" />
+      <module name="personal-hadoop_main" target="1.7" />
+      <module name="personal-hadoop_test" target="1.7" />
+      <module name="personal-hbase_main" target="1.7" />
+      <module name="personal-hbase_test" target="1.7" />
+      <module name="personal-job_main" target="1.7" />
+      <module name="personal-job_test" target="1.7" />
+      <module name="personal-kafka_main" target="1.7" />
+      <module name="personal-kafka_test" target="1.7" />
+      <module name="personal-rpc_main" target="1.7" />
+      <module name="personal-rpc_test" target="1.7" />
+      <module name="personal-spring_main" target="1.7" />
+      <module name="personal-spring_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

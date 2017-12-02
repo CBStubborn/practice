@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d653aced-7bce-4295-9c77-faf2034812eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal-hadoop/build.gradle" afterPath="$PROJECT_DIR$/personal-hadoop/build.gradle" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_hbase_hbase_common_1_2_4_tests.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-basic/personal-basic.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-hadoop/personal-hadoop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-hbase/personal-hbase.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-job/personal-job.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-kafka/personal-kafka.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-rpc/personal-rpc.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring.iml" afterPath="$PROJECT_DIR$/.idea/modules/personal-spring/personal-spring.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practice.iml" afterPath="$PROJECT_DIR$/practice.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/personal-basic/.gradle/" />
     <ignored path="$PROJECT_DIR$/personal-basic/build/" />
@@ -49,6 +61,15 @@
         <task path="$PROJECT_DIR$/personal-hbase">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/personal-kafka">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/personal-hadoop">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -64,33 +85,25 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/personal-hadoop/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="207">
+              <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/personal-kafka/build.gradle">
+      <file leaf-file-name="MessageProducer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/MessageProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,12 +131,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Program Files\gradle-4.3" />
+        <entry key="$PROJECT_DIR$" value="C:\Program Files\gradle-2.9" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.3" />
+        <entry key="$PROJECT_DIR$" value="2.9" />
       </map>
     </option>
     <option name="availableProjects">
@@ -138,36 +151,36 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="practice" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value=":personal-basic" />
                 <option name="path" value="$PROJECT_DIR$/personal-basic" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="practice" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":personal-hadoop" />
                 <option name="path" value="$PROJECT_DIR$/personal-hadoop" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":personal-hbase" />
-                <option name="path" value="$PROJECT_DIR$/personal-hbase" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
                 <option name="name" value=":personal-job" />
                 <option name="path" value="$PROJECT_DIR$/personal-job" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":personal-spring" />
+                <option name="path" value="$PROJECT_DIR$/personal-spring" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
                 <option name="name" value=":personal-kafka" />
                 <option name="path" value="$PROJECT_DIR$/personal-kafka" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":personal-rpc" />
-                <option name="path" value="$PROJECT_DIR$/personal-rpc" />
+                <option name="name" value=":personal-hbase" />
+                <option name="path" value="$PROJECT_DIR$/personal-hbase" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value=":personal-spring" />
-                <option name="path" value="$PROJECT_DIR$/personal-spring" />
+                <option name="name" value=":personal-rpc" />
+                <option name="path" value="$PROJECT_DIR$/personal-rpc" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -195,22 +208,12 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'practice'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'practice'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
@@ -245,7 +248,7 @@
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build." />
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="init" />
               </ExternalTaskPojo>
@@ -339,16 +342,6 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
                 <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':personal-basic'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-basic'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-basic" />
-                <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
@@ -472,16 +465,6 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':personal-hadoop'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-hadoop'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hadoop" />
                 <option name="name" value="testClasses" />
@@ -601,16 +584,6 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
                 <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':personal-hbase'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-hbase'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-hbase" />
-                <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
@@ -734,16 +707,6 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':personal-job'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-job'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-job" />
                 <option name="name" value="testClasses" />
@@ -863,16 +826,6 @@
                 <option name="description" value="Assembles main classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
                 <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':personal-kafka'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-kafka'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-kafka" />
-                <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
@@ -996,16 +949,6 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':personal-rpc'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-rpc'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-rpc" />
                 <option name="name" value="testClasses" />
@@ -1127,16 +1070,6 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in project ':personal-spring'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':personal-spring'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/personal-spring" />
                 <option name="name" value="testClasses" />
@@ -1238,7 +1171,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="15117404255618" />
+        <entry key="$PROJECT_DIR$" value="13603876184128" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3202516968" />
         <entry key="$PROJECT_DIR$/personal-hadoop/build.gradle" value="3340491612" />
         <entry key="$PROJECT_DIR$/personal-hbase/build.gradle" value="2254413600" />
@@ -1321,80 +1254,64 @@
               <option name="name" value="personal-basic" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="C:/Program Files/gradle-4.3/lib/ant-1.9.6.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/ant-launcher-1.9.6.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-base-services-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-base-services-groovy-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-build-cache-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-build-option-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-cli-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-core-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-core-api-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-docs-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-installation-beacon-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-jvm-services-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-kotlin-dsl-0.12.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-kotlin-dsl-tooling-builders-0.12.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-kotlin-dsl-tooling-models-0.12.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-launcher-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-logging-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-messaging-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-model-core-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-model-groovy-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-native-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-persistent-cache-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-process-services-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-resources-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-runtime-api-info-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-tooling-api-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/gradle-wrapper-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/groovy-all-2.4.12.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-announce-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-antlr-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-build-cache-http-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-build-comparison-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-build-init-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-code-quality-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-composite-builds-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-dependency-management-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-diagnostics-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ear-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ide-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ide-native-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ide-play-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-ivy-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-jacoco-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-javascript-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-groovy-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-java-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-jvm-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-native-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-language-scala-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-maven-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-osgi-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-base-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-jvm-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-native-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-platform-play-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-plugin-development-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-plugin-use-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-plugins-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-publish-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-reporting-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-gcs-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-http-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-s3-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-resources-sftp-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-scala-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-signing-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-test-kit-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-testing-base-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-testing-jvm-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-testing-native-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-tooling-api-builders-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-version-control-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/gradle-workers-4.3.jar" />
-                  <option value="C:/Program Files/gradle-4.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/ant-1.9.3.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/ant-launcher-1.9.3.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-base-services-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-base-services-groovy-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-cli-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-core-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-docs-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-launcher-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-messaging-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-model-core-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-model-groovy-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-native-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-open-api-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-resources-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-tooling-api-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-ui-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/gradle-wrapper-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/groovy-all-2.4.4.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-announce-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-antlr-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-build-comparison-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-build-init-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-code-quality-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-dependency-management-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-diagnostics-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-ear-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-ide-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-ide-native-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-ivy-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-jacoco-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-javascript-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-jetty-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-language-groovy-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-language-java-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-language-jvm-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-language-native-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-language-scala-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-maven-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-osgi-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-platform-base-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-platform-jvm-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-platform-native-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-platform-play-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-plugin-development-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-plugin-use-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-plugins-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-publish-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-reporting-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-resources-http-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-resources-s3-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-resources-sftp-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-scala-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-signing-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-sonar-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-test-kit-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-testing-native-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/gradle-tooling-api-builders-2.9.jar" />
+                  <option value="C:/Program Files/gradle-2.9/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -1430,16 +1347,16 @@
         <option value="$PROJECT_DIR$/conf/kafka/kafka-producer.properties" />
         <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/KafkaProducer.java" />
         <option value="$PROJECT_DIR$/personal-kafka/build.gradle" />
-        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/MessageProducer.java" />
         <option value="$PROJECT_DIR$/personal-hadoop/build.gradle" />
+        <option value="$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/MessageProducer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="260" />
-    <option name="y" value="40" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -1459,6 +1376,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1469,42 +1387,47 @@
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="personal-hadoop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="personal-hadoop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="personal-hadoop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="personal-hadoop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="personal-hadoop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="personal-kafka" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="jnproject" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1513,12 +1436,11 @@
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JNITS/settings.gradle" />
@@ -1678,7 +1600,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1512115309891" />
+    <option name="lastUpdateTimestamp" value="1512197086819" />
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
@@ -1691,7 +1613,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b8336ba9-1b4e-465b-8561-9cb16a139786" name="Default" comment="" />
+      <changelist id="d653aced-7bce-4295-9c77-faf2034812eb" name="Default" comment="" />
       <created>1511491945326</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -1700,60 +1622,39 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22012578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25106838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20619658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09455128" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.625" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08698941" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09455128" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.576507" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10030864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.625" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10030864" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.69409937" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18381241" sideWeight="0.49462366" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14977308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229954" sideWeight="0.49462366" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16263238" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09455128" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08698941" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.576507" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1934,35 +1835,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="37" column="4" lean-forward="true" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="1482" column="59" lean-forward="true" selection-start-line="1482" selection-start-column="59" selection-end-line="1482" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/jre/lib/rt.jar!/java/lang/String.class" />
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java" />
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/lang/String.java" />
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka/1.0.5.RELEASE/732933714a8ab2898d4f5adc2166b58c572514e2/spring-kafka-1.0.5.RELEASE-sources.jar!/org/springframework/kafka/listener/AcknowledgingMessageListener.java" />
-    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
     <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/consumer/SmsMessageHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1999,20 +1876,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="457" column="28" lean-forward="true" selection-start-line="457" selection-start-column="28" selection-end-line="457" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3131">
-          <caret line="122" column="6" lean-forward="false" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/Hashtable.java" />
+    <entry file="jar://C:/Java/jdk1.8.0_77/src.zip!/java/util/HashMap.java" />
     <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/listeninterface/producer/ProducerProperty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -2092,13 +1957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/MessageProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="685" column="25" lean-forward="false" selection-start-line="685" selection-start-column="25" selection-end-line="685" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf/kafka/kafka-producer.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -2107,27 +1965,37 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personal-nio/src/main/java/personal/practices/nio/channel/UserFileChannel.java" />
-    <entry file="file://$PROJECT_DIR$/personal-hadoop/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personal-kafka/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="330">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="207">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-hadoop/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal-kafka/src/main/java/personal/practices/kafka/jnproject/MessageProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2171,6 +2039,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Python 2.7.12 (C:\Program Files\Python27\python.exe) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2182,7 +2051,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8.0_77</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2194,7 +2063,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>personal-basic</last-edited>
+          <last-edited>personal-hadoop</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
